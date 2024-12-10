@@ -1,0 +1,18 @@
+{
+	"url_lists": [
+		["https://myanimelist.net/animelist/Hyouteki", "My Anime list", "MyAnimeList"],
+		["https://myanimelist.net/mangalist/Hyouteki", "My Manga list", "MyAnimeList"],
+		["https://www.goodreads.com/review/list/177332299-lakshay?shelf=read", "Books, I have <u>read</u>", "GoodReads"],
+		["https://www.goodreads.com/review/list/177332299-lakshay?shelf=currently-reading", "Books, I am <u>currently reading</u>", "GoodReads"],
+		["https://www.goodreads.com/review/list/177332299-lakshay?shelf=to-read", "Books, I <u>want to read</u>", "GoodReads"],
+		["https://www.imdb.com/list/ls547401525", "Titles, I have <u>watched</u>", "IMDB"],
+		["https://www.imdb.com/list/ls548922873", "Titles, I am <u>currently watching</u>", "IMDB"],
+		["https://www.imdb.com/list/ls590603398", "Titles, I <u>want to watch</u>", "IMDB"],
+		["https://ninthcircle.notion.site/My-favorite-CS-Conferences-1587f6ac96218081b65dfce111841d1a",
+		 "My favorite <u>CS Conferences</u>", "Notion"],
+		["https://ninthcircle.notion.site/My-favorite-Browser-Extension-1587f6ac96218070af49f2983a1a5a2d",
+		 "My favorite <u>Browser Extensions</u>", "Notion"],
+		["https://ninthcircle.notion.site/Some-awesome-Cheatsheets-1587f6ac9621808481e7ef932263cadd",
+		 "Some awesome <u>Cheatsheets</u>", "Notion"]
+	]
+}
